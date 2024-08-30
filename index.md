@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Techtonic
 ---
 
-A blog experiment to see if it works decently.
+Thoughts of Now and Future Tech
